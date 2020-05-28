@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatClient_jar</output-path>
+    <root id="archive" name="ChatClient.jar">
+      <element id="module-output" name="ChatClient" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-net-3.6/commons-net-3.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-net-3.6/commons-net-3.6-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/commons-net-3.6/commons-net-examples-3.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
